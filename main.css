@@ -14,7 +14,7 @@ h1{
 }
 
 nav a{
-	background-color:muganta;
+	background-color:hotpink;
 	margin: 20px;
 	padding: 5px 10px;
 	border-radius: 5px;
@@ -24,7 +24,7 @@ nav a{
 
 .main{ width:70%;
         margin:auto;
-        background-image: url('yin and yand.jpg');
+        background-image: url('wolf.jpg');
         background-position:top;
         background-size:contain;
         padding: 20px;
