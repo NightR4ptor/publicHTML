@@ -14,7 +14,7 @@ h1{
 }
 
 nav a{
-	background-color:hotpink;
+	background-color:muganta;
 	margin: 20px;
 	padding: 5px 10px;
 	border-radius: 5px;
@@ -36,7 +36,7 @@ nav a{
  	margin: 20px;
  }
  article:last-of-type{
- 	color: hotpink;
+ 	color: mugenta;
  }
 
  h2{
